@@ -1,7 +1,7 @@
 <template>
   <div id="home">
     <vue-particles color="#dedede" :particlesNumber="80"></vue-particles>
-    <img src="https://cdn.khaleelgibran.com/img/donut.png" alt="Khaleel Gibran's blue donut" id="donut">
+    <img src="https://cdn.khaleelgibran.com/img/IMG_-qftluj.jpg" alt="Khaleel Gibran's blue donut" id="donut">
     <MainPage name="Khaleel Gibran" tagline="14 year-old web developer + donut lover" about="I create open-source projects with Node.js and some Vue." twitter="https://twitter.com/khalby786" github="https://github.com/khalby786" />
   </div>
 </template>
